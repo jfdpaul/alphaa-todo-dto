@@ -1,5 +1,5 @@
 {
-  "name": "alphaa-todo-dto",
+  "name": "@jfdpaul/alphaa-todo-dto",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jfdpaul/alphaa-todo-dto"
+    "url": "git://github.com/jfdpaul/alphaa-todo-dto.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/jfdpaul"
